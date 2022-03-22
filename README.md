@@ -1,3 +1,3 @@
 # Meu Primeiro git
 
-Repositorio para aprender a mexer com git 
+Repositório para aprender a mexer com git 
